@@ -4,7 +4,7 @@ Version: 0.0.2
 Release: %mkrel 1
 Group: System/Desktop
 License: LGPL 2.1
-URL: http://www.meego.com
+URL: https://www.meego.com
 Source0: %{name}-%{version}.tar.gz
 Requires: desktop-file-utils
 BuildRequires: libglib2-devel
