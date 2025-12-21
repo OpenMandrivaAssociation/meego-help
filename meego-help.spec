@@ -7,6 +7,11 @@ License: LGPL 2.1
 URL: https://www.meego.com
 Source0: %{name}-%{version}.tar.gz
 Requires: desktop-file-utils
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires: libglib2-devel
 BuildRequires: libdbus-glib-1-devel
 BuildRequires: intltool
