@@ -1,7 +1,7 @@
 Name: meego-help
 Summary: MeeGo Help
 Version: 0.0.2
-Release: %mkrel 1
+Release: 2
 Group: System/Desktop
 License: LGPL 2.1
 URL: https://www.meego.com
